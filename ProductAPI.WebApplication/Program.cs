@@ -14,6 +14,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<DataDbContext>(options => options.UseSqlServer(
                             builder.Configuration.GetConnectionString("ConnectionString")));
 builder.Services.AddScoped(typeof(ICategoryRepository), typeof(CategoryRepository));
+builder.Services.AddScoped(typeof(IProductRepository), typeof(ProductRepository));
 
 
 var app = builder.Build();
