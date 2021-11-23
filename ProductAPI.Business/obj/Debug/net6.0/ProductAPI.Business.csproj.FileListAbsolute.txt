@@ -1,0 +1,17 @@
+D:\product_dotnet6_crud\ProductAPI.Business\bin\Debug\net6.0\ProductAPI.Business.deps.json
+D:\product_dotnet6_crud\ProductAPI.Business\bin\Debug\net6.0\ProductAPI.Business.dll
+D:\product_dotnet6_crud\ProductAPI.Business\bin\Debug\net6.0\ref\ProductAPI.Business.dll
+D:\product_dotnet6_crud\ProductAPI.Business\bin\Debug\net6.0\ProductAPI.Business.pdb
+D:\product_dotnet6_crud\ProductAPI.Business\bin\Debug\net6.0\ProductAPI.Data.dll
+D:\product_dotnet6_crud\ProductAPI.Business\bin\Debug\net6.0\ProductAPI.Infrastructure.dll
+D:\product_dotnet6_crud\ProductAPI.Business\bin\Debug\net6.0\ProductAPI.Data.pdb
+D:\product_dotnet6_crud\ProductAPI.Business\bin\Debug\net6.0\ProductAPI.Infrastructure.pdb
+D:\product_dotnet6_crud\ProductAPI.Business\obj\Debug\net6.0\ProductAPI.Business.csproj.AssemblyReference.cache
+D:\product_dotnet6_crud\ProductAPI.Business\obj\Debug\net6.0\ProductAPI.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\product_dotnet6_crud\ProductAPI.Business\obj\Debug\net6.0\ProductAPI.Business.AssemblyInfoInputs.cache
+D:\product_dotnet6_crud\ProductAPI.Business\obj\Debug\net6.0\ProductAPI.Business.AssemblyInfo.cs
+D:\product_dotnet6_crud\ProductAPI.Business\obj\Debug\net6.0\ProductAPI.Business.csproj.CoreCompileInputs.cache
+D:\product_dotnet6_crud\ProductAPI.Business\obj\Debug\net6.0\ProductAPI.Business.csproj.CopyComplete
+D:\product_dotnet6_crud\ProductAPI.Business\obj\Debug\net6.0\ProductAPI.Business.dll
+D:\product_dotnet6_crud\ProductAPI.Business\obj\Debug\net6.0\ref\ProductAPI.Business.dll
+D:\product_dotnet6_crud\ProductAPI.Business\obj\Debug\net6.0\ProductAPI.Business.pdb

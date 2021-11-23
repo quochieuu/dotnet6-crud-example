@@ -1,0 +1,15 @@
+D:\product_dotnet6_crud\ProductAPI.Infrastructure\bin\Debug\net6.0\ProductAPI.Infrastructure.deps.json
+D:\product_dotnet6_crud\ProductAPI.Infrastructure\bin\Debug\net6.0\ProductAPI.Infrastructure.dll
+D:\product_dotnet6_crud\ProductAPI.Infrastructure\bin\Debug\net6.0\ref\ProductAPI.Infrastructure.dll
+D:\product_dotnet6_crud\ProductAPI.Infrastructure\bin\Debug\net6.0\ProductAPI.Infrastructure.pdb
+D:\product_dotnet6_crud\ProductAPI.Infrastructure\bin\Debug\net6.0\ProductAPI.Data.dll
+D:\product_dotnet6_crud\ProductAPI.Infrastructure\bin\Debug\net6.0\ProductAPI.Data.pdb
+D:\product_dotnet6_crud\ProductAPI.Infrastructure\obj\Debug\net6.0\ProductAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\product_dotnet6_crud\ProductAPI.Infrastructure\obj\Debug\net6.0\ProductAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\product_dotnet6_crud\ProductAPI.Infrastructure\obj\Debug\net6.0\ProductAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\product_dotnet6_crud\ProductAPI.Infrastructure\obj\Debug\net6.0\ProductAPI.Infrastructure.AssemblyInfo.cs
+D:\product_dotnet6_crud\ProductAPI.Infrastructure\obj\Debug\net6.0\ProductAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\product_dotnet6_crud\ProductAPI.Infrastructure\obj\Debug\net6.0\ProductAPI.Infrastructure.csproj.CopyComplete
+D:\product_dotnet6_crud\ProductAPI.Infrastructure\obj\Debug\net6.0\ProductAPI.Infrastructure.dll
+D:\product_dotnet6_crud\ProductAPI.Infrastructure\obj\Debug\net6.0\ref\ProductAPI.Infrastructure.dll
+D:\product_dotnet6_crud\ProductAPI.Infrastructure\obj\Debug\net6.0\ProductAPI.Infrastructure.pdb
