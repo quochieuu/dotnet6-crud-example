@@ -2,7 +2,6 @@ D:\product_dotnet6_crud\ProductAPI.Common\bin\Debug\net6.0\ProductAPI.Common.dep
 D:\product_dotnet6_crud\ProductAPI.Common\bin\Debug\net6.0\ProductAPI.Common.dll
 D:\product_dotnet6_crud\ProductAPI.Common\bin\Debug\net6.0\ref\ProductAPI.Common.dll
 D:\product_dotnet6_crud\ProductAPI.Common\bin\Debug\net6.0\ProductAPI.Common.pdb
-D:\product_dotnet6_crud\ProductAPI.Common\obj\Debug\net6.0\ProductAPI.Common.csproj.AssemblyReference.cache
 D:\product_dotnet6_crud\ProductAPI.Common\obj\Debug\net6.0\ProductAPI.Common.GeneratedMSBuildEditorConfig.editorconfig
 D:\product_dotnet6_crud\ProductAPI.Common\obj\Debug\net6.0\ProductAPI.Common.AssemblyInfoInputs.cache
 D:\product_dotnet6_crud\ProductAPI.Common\obj\Debug\net6.0\ProductAPI.Common.AssemblyInfo.cs
@@ -10,3 +9,4 @@ D:\product_dotnet6_crud\ProductAPI.Common\obj\Debug\net6.0\ProductAPI.Common.csp
 D:\product_dotnet6_crud\ProductAPI.Common\obj\Debug\net6.0\ProductAPI.Common.dll
 D:\product_dotnet6_crud\ProductAPI.Common\obj\Debug\net6.0\ref\ProductAPI.Common.dll
 D:\product_dotnet6_crud\ProductAPI.Common\obj\Debug\net6.0\ProductAPI.Common.pdb
+D:\product_dotnet6_crud\ProductAPI.Common\obj\Debug\net6.0\ProductAPI.Common.csproj.AssemblyReference.cache

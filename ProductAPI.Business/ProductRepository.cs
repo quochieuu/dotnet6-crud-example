@@ -22,7 +22,7 @@ namespace ProductAPI.Business
                             .ToListAsync();
         }
 
-        public async Task<Pagination<ProductQuickViewModel>> GetAllPaging(string filter, Guid? categoryId, int pageIndex, int pageSize)
+        public async Task<Pagination<ProductQuickViewModel>> GetAllPaging(string? filter, Guid? categoryId, int pageIndex, int pageSize)
         {
             var query = from pr in _context.Products
                         join c in _context.Categories on pr.CategoryId equals c.Id

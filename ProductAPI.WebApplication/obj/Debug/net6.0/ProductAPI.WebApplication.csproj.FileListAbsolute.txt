@@ -274,3 +274,7 @@ D:\product_dotnet6_crud\ProductAPI.WebApplication\bin\Debug\net6.0\ProductAPI.Bu
 D:\product_dotnet6_crud\ProductAPI.WebApplication\bin\Debug\net6.0\ProductAPI.Business.pdb
 D:\product_dotnet6_crud\ProductAPI.WebApplication\bin\Debug\net6.0\ProductAPI.Common.dll
 D:\product_dotnet6_crud\ProductAPI.WebApplication\bin\Debug\net6.0\ProductAPI.Common.pdb
+D:\product_dotnet6_crud\ProductAPI.WebApplication\bin\Debug\net6.0\MailKit.dll
+D:\product_dotnet6_crud\ProductAPI.WebApplication\bin\Debug\net6.0\MimeKit.dll
+D:\product_dotnet6_crud\ProductAPI.WebApplication\bin\Debug\net6.0\NETCore.MailKit.dll
+D:\product_dotnet6_crud\ProductAPI.WebApplication\bin\Debug\net6.0\BouncyCastle.Crypto.dll

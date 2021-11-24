@@ -3,7 +3,6 @@ D:\product_dotnet6_crud\ProductAPI.Data\bin\Debug\net6.0\ProductAPI.Data.runtime
 D:\product_dotnet6_crud\ProductAPI.Data\bin\Debug\net6.0\ProductAPI.Data.dll
 D:\product_dotnet6_crud\ProductAPI.Data\bin\Debug\net6.0\ref\ProductAPI.Data.dll
 D:\product_dotnet6_crud\ProductAPI.Data\bin\Debug\net6.0\ProductAPI.Data.pdb
-D:\product_dotnet6_crud\ProductAPI.Data\obj\Debug\net6.0\ProductAPI.Data.csproj.AssemblyReference.cache
 D:\product_dotnet6_crud\ProductAPI.Data\obj\Debug\net6.0\ProductAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
 D:\product_dotnet6_crud\ProductAPI.Data\obj\Debug\net6.0\ProductAPI.Data.AssemblyInfoInputs.cache
 D:\product_dotnet6_crud\ProductAPI.Data\obj\Debug\net6.0\ProductAPI.Data.AssemblyInfo.cs
@@ -12,3 +11,4 @@ D:\product_dotnet6_crud\ProductAPI.Data\obj\Debug\net6.0\ProductAPI.Data.dll
 D:\product_dotnet6_crud\ProductAPI.Data\obj\Debug\net6.0\ref\ProductAPI.Data.dll
 D:\product_dotnet6_crud\ProductAPI.Data\obj\Debug\net6.0\ProductAPI.Data.pdb
 D:\product_dotnet6_crud\ProductAPI.Data\obj\Debug\net6.0\ProductAPI.Data.genruntimeconfig.cache
+D:\product_dotnet6_crud\ProductAPI.Data\obj\Debug\net6.0\ProductAPI.Data.csproj.AssemblyReference.cache

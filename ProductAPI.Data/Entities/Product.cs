@@ -12,5 +12,6 @@
         public int ViewCount { get; set; }
         public Guid CategoryId { get; set; }
         public virtual Category Category { get; set; }
+        public virtual IEnumerable<Comment> Comments { get; set; }
     }
 }

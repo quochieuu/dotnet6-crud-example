@@ -16,15 +16,17 @@ namespace ProductAPI.Data.EF
                 //Configure using Fluent API
                 modelBuilder.ApplyConfiguration(new CategoryConfiguration());
                 modelBuilder.ApplyConfiguration(new ProductConfiguration());
+                modelBuilder.ApplyConfiguration(new CommentConfiguration());
 
 
-                //Data seeding
-                modelBuilder.Seed();
+            //Data seeding
+            modelBuilder.Seed();
                 //base.OnModelCreating(modelBuilder);
             }
 
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
+        public DbSet<Comment> Comments { get; set; }
     }
     
 }

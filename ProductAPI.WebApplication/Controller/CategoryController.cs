@@ -23,7 +23,7 @@ namespace ProductAPI.WebApplication.Controller
         }
 
         [HttpGet("filter")]
-        public async Task<ActionResult> GetAllPaging(string filter, int pageIndex, int pageSize)
+        public async Task<ActionResult> GetAllPaging(string? filter, int pageIndex, int pageSize)
         {
             return Ok(await _repo.GetAllPaging(filter, pageIndex, pageSize));
         }

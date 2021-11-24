@@ -64,6 +64,40 @@ namespace ProductAPI.Data.Migrations
                         });
                 });
 
+            modelBuilder.Entity("ProductAPI.Data.Entities.Comment", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Author")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Content")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsAnonymous")
+                        .HasColumnType("bit");
+
+                    b.Property<Guid>("ProductId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("Comments", (string)null);
+                });
+
             modelBuilder.Entity("ProductAPI.Data.Entities.Product", b =>
                 {
                     b.Property<Guid>("Id")
@@ -109,12 +143,23 @@ namespace ProductAPI.Data.Migrations
                             Id = new Guid("1b60fd43-a1b5-4214-9ccc-d239f0f4c97f"),
                             CategoryId = new Guid("1b60fd43-a1b5-4214-9ccc-d239f0f4c97b"),
                             Content = "New fashion 2021",
-                            CreatedDate = new DateTime(2021, 11, 24, 2, 41, 30, 919, DateTimeKind.Local).AddTicks(8811),
+                            CreatedDate = new DateTime(2021, 11, 24, 5, 23, 4, 839, DateTimeKind.Local).AddTicks(3143),
                             Name = "Nike",
                             Price = 120000m,
                             Status = true,
                             ViewCount = 0
                         });
+                });
+
+            modelBuilder.Entity("ProductAPI.Data.Entities.Comment", b =>
+                {
+                    b.HasOne("ProductAPI.Data.Entities.Product", "Product")
+                        .WithMany("Comments")
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Product");
                 });
 
             modelBuilder.Entity("ProductAPI.Data.Entities.Product", b =>
@@ -131,6 +176,11 @@ namespace ProductAPI.Data.Migrations
             modelBuilder.Entity("ProductAPI.Data.Entities.Category", b =>
                 {
                     b.Navigation("Products");
+                });
+
+            modelBuilder.Entity("ProductAPI.Data.Entities.Product", b =>
+                {
+                    b.Navigation("Comments");
                 });
 #pragma warning restore 612, 618
         }

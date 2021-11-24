@@ -22,7 +22,7 @@ namespace ProductAPI.Business
                             .ToListAsync();
         }
 
-        public async Task<Pagination<Category>> GetAllPaging(string filter, int pageIndex, int pageSize)
+        public async Task<Pagination<Category>> GetAllPaging(string? filter, int pageIndex, int pageSize)
         {
             var query = _context.Categories.AsQueryable();
 
